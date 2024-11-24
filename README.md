@@ -64,3 +64,7 @@ Feel free to submit issues and enhancement requests!
 ## Acknowledgments
 
 This boilerplate is designed to provide a clean starting point for Three.js projects. For more advanced features and resources, check out [threejsresources.com](https://threejsresources.com/).
+
+## Author
+
+[Peter Csipkay](https://petercsipkay.com/)
